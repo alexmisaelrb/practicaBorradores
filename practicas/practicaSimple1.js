@@ -2,7 +2,7 @@
 let nombres = [
     "Misael",
     "Anahi",
-    "Itzuri",
+    "Yazmin",
     "Gabriel",
     "Jorge"
 ]
@@ -15,9 +15,4 @@ function hola(){
 
 hola()
 console.log()
-hola()
-console.log()
-hola()
-console.log()
-hola()
 console.log("Holi holi")
