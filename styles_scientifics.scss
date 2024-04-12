@@ -1,0 +1,36 @@
+#logo_unam {
+    height: 150px;
+    width: 150px;
+}
+
+#logo_equipo {
+    height: 150px;
+    width: 150px;
+}
+
+h1 {
+    background-color: blue($color: #0400ff);
+}
+
+.navbar {
+    margin: auto;
+    width: fit-content;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#audioPlayer {
+    margin: 50px;
+}
+
+#scientistInfo img {
+    max-width: 100%; /* Ancho máximo del 100% del contenedor */
+    max-height: 300px; /* Altura máxima de 300 píxeles */
+    display: block; /* Para asegurar que las imágenes se ajusten correctamente */
+    margin: auto; /* Centra las imágenes horizontalmente */
+}
